@@ -1,2 +1,3 @@
-# voxtral-tts-ai
-Practical notes, links, and resources for Voxtral TTS.
+# Voxtral TTS AI
+
+A practical repository for exploring [Voxtral TTS](https://voxtral-tts.com).
